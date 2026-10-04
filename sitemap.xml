@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://yunnan-tea-museum.app.workbuddy.host/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://yunnan-tea-museum.app.workbuddy.host/assets/hero.jpg</image:loc>
+      <image:title>云南古树茶园晨雾</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://yunnan-tea-museum.app.workbuddy.host/assets/ex1.jpg</image:loc>
+      <image:title>鄂尔泰贡茶</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://yunnan-tea-museum.app.workbuddy.host/assets/ex2.jpg</image:loc>
+      <image:title>马帮运茶路线图</image:title>
+    </image:image>
+  </url>
+</urlset>
