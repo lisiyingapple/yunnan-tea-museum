@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yunnan-tea-museum.app.workbuddy.host/sitemap.xml
+Sitemap: https://lisiyingapple.github.io/yunnan-tea-museum/sitemap.xml

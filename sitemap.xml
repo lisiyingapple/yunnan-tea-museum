@@ -2,21 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://yunnan-tea-museum.app.workbuddy.host/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <loc>https://lisiyingapple.github.io/yunnan-tea-museum/</loc>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://yunnan-tea-museum.app.workbuddy.host/assets/hero.jpg</image:loc>
+      <image:loc>https://lisiyingapple.github.io/yunnan-tea-museum/assets/hero.webp</image:loc>
       <image:title>云南古树茶园晨雾</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://yunnan-tea-museum.app.workbuddy.host/assets/ex1.jpg</image:loc>
+      <image:loc>https://lisiyingapple.github.io/yunnan-tea-museum/assets/idea.webp</image:loc>
+      <image:title>馆藏茶样</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lisiyingapple.github.io/yunnan-tea-museum/assets/ex1.webp</image:loc>
       <image:title>鄂尔泰贡茶</image:title>
     </image:image>
     <image:image>
-      <image:loc>https://yunnan-tea-museum.app.workbuddy.host/assets/ex2.jpg</image:loc>
+      <image:loc>https://lisiyingapple.github.io/yunnan-tea-museum/assets/ex2.webp</image:loc>
       <image:title>马帮运茶路线图</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lisiyingapple.github.io/yunnan-tea-museum/assets/ex3.webp</image:loc>
+      <image:title>古法紧压茶模具</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lisiyingapple.github.io/yunnan-tea-museum/assets/gate.webp</image:loc>
+      <image:title>博物馆正门</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://lisiyingapple.github.io/yunnan-tea-museum/assets/terroir.webp</image:loc>
+      <image:title>风土纪实</image:title>
     </image:image>
   </url>
 </urlset>
